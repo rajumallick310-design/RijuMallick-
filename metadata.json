@@ -1,0 +1,6 @@
+{
+  "name": "SabujKatha",
+  "description": "A vibrant community social app for plant care, grafting techniques, videos, tips, follower milestones, and lucky coupon rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
